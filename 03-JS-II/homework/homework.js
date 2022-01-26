@@ -6,7 +6,7 @@ function obtenerMayor(x, y) {
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código:
   if(x > y) {
-    return x;
+    return x;  
   }
     return y;
   
@@ -41,6 +41,7 @@ function conection(status) {
   }
 
 
+  
 function saludo(idioma) {
   // Devuelve un saludo en tres diferentes lenguajes:
   // Si "idioma" es "aleman", devuelve "Guten Tag!"
