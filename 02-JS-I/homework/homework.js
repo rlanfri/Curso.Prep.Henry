@@ -5,7 +5,7 @@ const nuevaString = "Hola soy Rodrigo Lanfri";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 22;
-
+   
 // Crea una variable booleana:
 const nuevoBool = true;
 
@@ -17,7 +17,6 @@ const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === 1;
-
 
 // En los próximos 22 problemas, deberás completar la función.
 // Todo tu código irá dentro de las llaves de la función.
@@ -250,7 +249,7 @@ function esVocal(letra){
   // Si no es vocal, tambien debe devolver "Dato incorrecto".
   //Escribe tu código aquí
   
-    if (letra.length >1){
+    if (letra.length > 1){
       return "Dato incorrecto"
     } 
     if(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u"){
