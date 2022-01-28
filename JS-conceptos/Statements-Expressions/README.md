@@ -248,3 +248,4 @@ JS tiene la particularidad qué en donde sea que el intérprete espera un *state
 > **Esto no funciona en sentido inverso, donde se espera una expresión *NO* podemos pasar una statement**.
 
 
+LEIDO
